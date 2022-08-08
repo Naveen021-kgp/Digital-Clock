@@ -1,0 +1,15 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(10, 12, 12);
+}
+.container{
+    font-family: 'Courier New', Courier, monospace;
+    color:white;
+    font-weight: bolder;
+    position:absolute;
+    top:0%;
+    left: 40%;
+    transform: translate(-50%,50%);
+    font-size: 70px;
+}
